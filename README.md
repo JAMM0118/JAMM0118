@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm JAMM
 
 <!--
 **JAMM0118/JAMM0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
