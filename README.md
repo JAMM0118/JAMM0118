@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm JAMM
-## I'm a third semester student at the Universidad del Valle.
+## I'm a fourth semester student at the Universidad del Valle.
 
 <!--
 **JAMM0118/JAMM0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
