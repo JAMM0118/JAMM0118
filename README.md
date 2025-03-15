@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm JAMM
-## I'm a sixth semester student at the Universidad del Valle.
+## I'm a seventh semester student at the Universidad del Valle.
 
 ## Sobre mí
 
