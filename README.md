@@ -32,10 +32,10 @@ Me interesa bastante el desarrollo movil y web. Me encanta aprender y compartir 
 
 - Mejorar mis habilidades en desarrollo FrontEnd y Backend para desarrollo web y movil.
 - Contribuir a proyectos de código abierto.
-- Aprender más sobre Flutter, React, JavaScrit y Node.js.
+- Aprender más sobre Flutter, React, Angular JavaScrit y TypeScript.
 
 ## 🌱 Estoy Aprendiendo
 
-Actualmente estoy aprendiendo JavaScript. Me interesa profundizar en conexion entre BackEnd y FrontEnd.
+Actualmente estoy aprendiendo TypeScript. Me interesa profundizar en conexion entre BackEnd y FrontEnd.
 ---
 ¡Gracias por visitar mi perfil! 😊
