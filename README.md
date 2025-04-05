@@ -27,7 +27,7 @@ Me interesa bastante el desarrollo movil y web. Me encanta aprender y compartir 
 
 | Idioma     | Nivel     | Progreso |
 |------------|-----------|----------|
-| 🇪🇸 Español | Nativo 🏆 | ██████████ 100% |
+| col Español | Nativo 🏆 | ██████████ 100% |
 | 🇺🇸 Inglés  | B2 ✨     | ███████░░░ 70%  |
 
 ## 📫 Cómo Contactarme
