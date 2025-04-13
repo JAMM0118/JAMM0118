@@ -1,4 +1,4 @@
-### Hi there 👋 I'm JAMM
+### Hola 👋 Soy JAMM
 ## Soy un estudiante de séptimo semestre de la Universidad del Valle.
 
 ## Sobre mí
